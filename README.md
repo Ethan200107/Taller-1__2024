@@ -1,7 +1,7 @@
 # Taller-1__2024
 Taller 1 de estructura
 
-Ethan Alexis Astorga Contreras 20.718.176-5 ethan.astorga@alumnos.ucn.cl
+Ethan Alexis Astorga Contreras 20.718.176-5 ethan.astorga@alumnos.ucn.cl ;
 Ignacio Cruz 21127029-2 ignacio.cruz01@ucn.cl
 
 Inicio de sesion
