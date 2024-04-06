@@ -1,0 +1,6 @@
+Conciert,2,34,45,4.5,Brumma marte,Coquimbo,vip 180000,Cancha 100000, galeria 80000
+Concieo,2,34,45,4.5,Brumma marte,Coquimbo,vip 180000,Cancha 100000, galeria 80000
+Concie,2,34,45,4.5,Brumma marte,Coquimbo,vip 180000,Cancha 100000, galeria 80000
+Concierto1,2,34,45,4.5,Brumma marte,Coquimbo,vip 180000,Cancha 100000, galeria 80000
+Concierto2,2,34,45,4.5,Brumma marte,Coquimbo,vip 180000,Cancha 100000, galeria 80000
+Concierto3,2,34,45,4.5,Brumma marte,Coquimbo,vip 180000,Cancha 100000, galeria 80000

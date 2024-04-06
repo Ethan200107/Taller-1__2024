@@ -1,0 +1,6 @@
+Tipo1,RUT1234-5,Juan Pérez,555-1234,Estudiante de Informática
+Tipo2,RUT5678-9,María González,555-5678,Profesor de Matemáticas
+Tipo1,RUT9876-5,Carlos Sánchez,555-9876,Asistente de Laboratorio
+Tipo1,RUT1234-5,Juan Pérez,555-1234,Estudiante de Informática
+Tipo2,RUT5678-9,María González,555-5678,Profesor de Matemáticas
+Tipo1,RUT9876-5,Carlos Sánchez,555-9876,Asistente de Laboratorio
